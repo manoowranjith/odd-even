@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/odd-even/static/css/main.4df2f4c8.css",
+    "main.js": "/odd-even/static/js/main.e9bba89a.js",
+    "static/js/787.2e7e89fb.chunk.js": "/odd-even/static/js/787.2e7e89fb.chunk.js",
+    "index.html": "/odd-even/index.html",
+    "main.4df2f4c8.css.map": "/odd-even/static/css/main.4df2f4c8.css.map",
+    "main.e9bba89a.js.map": "/odd-even/static/js/main.e9bba89a.js.map",
+    "787.2e7e89fb.chunk.js.map": "/odd-even/static/js/787.2e7e89fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4df2f4c8.css",
+    "static/js/main.e9bba89a.js"
+  ]
+}
