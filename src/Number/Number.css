@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+    margin:5vh 0vw;
+}
+input{
+    display: block;
+    margin:5vh auto;
+    height: 10vh;
+    padding-left: 20px;
+}
+.random-number{
+    display: block;
+    margin: 0 auto;
+}
+#number-generate-id{
+    margin:10vh 25vw;
+    display: grid;
+    grid-template-columns: repeat(10,1fr);
+    place-items: center;
+    /* grid-gap: 10px; */
+}
+p{
+    padding:30px;
+    margin:2px;
+    background-color: rgb(255, 194, 136);
+}
+.OddEven{
+    display: none;
+    margin:10vh auto;
+    justify-content: space-between;
+    width: 15vw;
+}
+button{
+    padding:15px 30px;
+    background-color: rgb(0, 217, 255);
+    cursor: pointer;
+    border:0;
+}
+#filtered-number-generate-id{
+    margin:10vh 25vw;
+    display: grid;
+    grid-template-columns: repeat(10,1fr);
+    place-items: center;
+}
